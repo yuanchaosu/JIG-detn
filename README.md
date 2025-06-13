@@ -1,4 +1,3 @@
-# DETN--
 demo of DETN
 cite:
 Xueer You, Yuanchao Su*，Mengying Jiang， Pengfei Li， Dongsheng Liu, and Jinying Bai. "Deep embedded Transformer network with spatial-spectral information for unmixing of hyperspectral remote sensing images" [J]. Journal of Image and Graphics， 29（08）：2220-2235, 2024.
